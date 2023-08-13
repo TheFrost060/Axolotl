@@ -6,7 +6,7 @@ from random import choice
 
 
 def run_bot():
-    TOKEN='MTA3NDAwMzQ0NzM2OTY5OTM0Mg.Gg-AHQ.ucyETNqPOV1OnRatXhzlXsCH3XP5nLIfV_RKqg'
+    TOKEN=''
 
     intents= discord.Intents.all()
     # intents.message_content = True
